@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Euroleague 2.018</string>
+    <string name="three_points">Three points</string>
+    <string name="two_points">Two points</string>
+    <string name="free_throw">Free throw</string>
+    <string name="player_1">Real Madrid</string>
+    <string name="player_2">Panathinaikos</string>
+    <string name="new_game">NEW GAME</string>
+</resources>
